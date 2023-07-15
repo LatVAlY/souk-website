@@ -536,7 +536,11 @@ nav {
   float: right;
   z-index: 1;
   position: absolute;
-  /* right: 9.375rem; */
+   right: 9.375rem;
+}
+
+.hero-second-img {
+  display: none;
 }
 
 /* Custom Shape Divider */
@@ -876,6 +880,7 @@ nav {
 .links ul li a {
   color: #363636;
 }
+
 /* End: Footer Section Styling */
 
 /* End: Main CSS Rules */
@@ -950,6 +955,10 @@ nav {
   }
   .hero-img {
     display: none;
+  }
+
+  .hero-second-img {
+    display: block;
   }
 
   #features {
