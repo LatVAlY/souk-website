@@ -1,4 +1,31 @@
-/* Nice Select CSS */
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 10px;
+}
+
+li {
+  margin-left: 20px;
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+    /* Nice Select CSS */
 .nice-select {
   -webkit-tap-highlight-color: transparent;
   background-color: #f8f8f8;
