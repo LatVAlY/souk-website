@@ -89,6 +89,9 @@ li {
   -ms-transform: rotate(-135deg);
   transform: rotate(-135deg);
 }
+.mobile-ln .nice-select.open .list {
+  bottom: unset !important;
+}
 .nice-select.open .list {
   top: auto !important;
   bottom: 100%;
