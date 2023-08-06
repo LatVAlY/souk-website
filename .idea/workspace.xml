@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780dd4bb-9c58-4bbd-9030-e7f1aca97f82" name="Changes" comment="chore: add language support">
-      <change afterPath="$PROJECT_DIR$/images/android-QR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ios-QR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
-    </list>
+    <list default="true" id="780dd4bb-9c58-4bbd-9030-e7f1aca97f82" name="Changes" comment="chore: add language support" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689530752624</updated>
       <workItem from="1689530753999" duration="3823000" />
-      <workItem from="1691156764281" duration="5369000" />
+      <workItem from="1691156764281" duration="5916000" />
     </task>
     <task id="LOCAL-00001" summary="chore: refactor">
       <option name="closed" value="true" />
@@ -119,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691160438935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chore: add language support">
+      <option name="closed" value="true" />
+      <created>1691312904497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691312904497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
