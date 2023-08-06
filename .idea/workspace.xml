@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780dd4bb-9c58-4bbd-9030-e7f1aca97f82" name="Changes" comment="chore: refactor">
-      <change afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
+    <list default="true" id="780dd4bb-9c58-4bbd-9030-e7f1aca97f82" name="Changes" comment="chore: add language support">
+      <change afterPath="$PROJECT_DIR$/images/android-QR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ios-QR.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +56,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/shop" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/shop" />
     </key>
   </component>
   <component name="RunManager">
@@ -102,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689530752624</updated>
       <workItem from="1689530753999" duration="3823000" />
-      <workItem from="1691156764281" duration="3663000" />
+      <workItem from="1691156764281" duration="5369000" />
     </task>
     <task id="LOCAL-00001" summary="chore: refactor">
       <option name="closed" value="true" />
@@ -112,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689530869633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: add language support">
+      <option name="closed" value="true" />
+      <created>1691160438935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691160438935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: refactor" />
+    <MESSAGE value="chore: add language support" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: add language support" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
