@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.technologyBloom.souk",
+      "sha256_cert_fingerprints": [
+        "66:37:8B:8E:09:09:FD:94:2D:2A:82:55:D1:58:FA:05:57:A6:3C:62:A7:90:7F:AE:3A:14:64:F9:23:C1:04:41"
+      ]
+    }
+  }
+]
